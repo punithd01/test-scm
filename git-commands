@@ -1,0 +1,39 @@
+rm git
+rm -r git
+git clone https://github.com/punithd01/test-scm.git
+cd testscm/
+cd test-scm/
+ls
+cat helloIndia.py
+vim helloIndia.py
+git status
+git add helloIndia.py
+git status
+git commit -m "Deleted line #2"
+git commit -m"Deleted line #2"
+Omit --global
+bash Omit --global
+git config --global punithd01.punith.006@gmail.com "https://github.com/punithd01/test-scm.git"
+git commit -m"Deleted line #2"
+git config --global punithd01.punith.006@gmail.com "https://github.com/punithd01/test-scm.git"
+git config --global punithd01.test-scm "punit"
+git commit -m"Deleted line #2"
+git config --global user.email "punith.006@gmail.com"
+git config --global user.name "punithd01"
+git commit -m"Deleted line #2"
+vim helloIndia.py
+git status
+git add helloIndia.py
+git commit -m"added #3 & #4 line"
+git status
+cat helloIndia.py
+cd test-scm/
+ls
+git push origin main
+git push origin main
+cd test-scm/
+ls
+git push origin main
+history
+history|cut -c 8-
+
